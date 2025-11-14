@@ -2,6 +2,7 @@
 A comprehensive Tableau analytics solution providing real-time insights into sales performance and customer behavior. This dual-dashboard system enables data-driven decision-making for sales teams, marketing departments, and executive management.
 
 ---
+
 ## 📊 Project Overview
 This project consists of two interactive Tableau dashboards designed to analyze and visualize key business metrics:
 
@@ -11,6 +12,7 @@ This project consists of two interactive Tableau dashboards designed to analyze 
 Both dashboards feature year-over-year comparisons, trend analysis, and interactive filtering capabilities to support strategic business decisions.
 
 ---
+
 ## 📈 Sales Dashboard
 ### 🎯 Purpose
 To present a complete overview of sales metrics and trends, enabling year-over-year comparison and helping users analyze business performance throughout the year.
@@ -23,6 +25,7 @@ To present a complete overview of sales metrics and trends, enabling year-over-y
 - **Interactivity**: Year selection, category/subcategory filters, regional filters, and drill-down charts.
 
 ---
+
 ## 👥 Customer Dashboard
 ### 🎯 Purpose
 To help marketing and management teams analyze customer segments, behavior patterns, and engagement levels to improve customer satisfaction and retention.
@@ -35,11 +38,18 @@ To help marketing and management teams analyze customer segments, behavior patte
 - **Interactivity**: Year selection, product/location filters, and interactive charts for deeper customer insights.
 
 ---
+
 ### ⭐ Insights You Can Gain
 - Track business growth month-by-month
 - Understand which customers contribute the most revenue
 - Identify profitable products and weak areas
 - Optimize marketing efforts using customer segmentation
+
+---
+
+## 🔗 Dashboard
+View the published Sales & Customer Analytics Dashboard on Tableau Public:  
+👉 [Click here to view the dashboard](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17471201279190/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
